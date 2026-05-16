@@ -1,3 +1,6 @@
+# Download here:
+https://github.com/bk0515299/winos/releases/
+
 # Test here:
 1.0.0: https://bk0515299.github.io/winos/winos.html
    
